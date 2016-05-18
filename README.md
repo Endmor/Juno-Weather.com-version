@@ -1,6 +1,8 @@
 # todo 
 icons may need to be renamed to work properly with the weather.com api
 
+work out how to change to the night time weather icon
+
 work out how to add days under the 3 day forecast
 
 
@@ -10,4 +12,4 @@ original version can be found here http://rasvob.deviantart.com/art/Juno-5584205
 
 # known bugs
 
-current weather icon doesnt show up at night
+current weather icon doesnt show up at night becouse of the api
