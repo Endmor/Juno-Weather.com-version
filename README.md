@@ -11,4 +11,4 @@ original version can be found here http://rasvob.deviantart.com/art/Juno-5584205
 
 # known bugs
 
-current weather icon doesnt show up at night becouse of the api
+it currently only displays the hi point for the day becouse adding <tmp> in RegExp to display the current temperature breaks the icons and conditions from displaying anything
