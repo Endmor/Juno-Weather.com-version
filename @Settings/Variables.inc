@@ -10,7 +10,7 @@ Unit=m
 ;cloudy,foggy,light_rain,rainy,rainy_storm,snow,snowflake,storm,sun,sun_cloud,windy
 
 ;Colors
-bgColor=0, 0, 0, 17
+bgColor=27292b
 bgColorDark=1f2022
 primaryColor=e12c28
 whiteColor=fafafa
