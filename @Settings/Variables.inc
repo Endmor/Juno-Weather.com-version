@@ -21,8 +21,8 @@ offset_def=160
 offset=50
 
 ;Hidden_vars
-batHidden=0
-diskHidden=1
+batHidden=1
+diskHidden=0
 weatherHidden=0
 
 darkIconsOn=0
@@ -36,7 +36,7 @@ cOff=0
 
 ;Mail
 GmailUsername=username
-GmailPassword=password
+GmailPassword=pass
 
 ;Icons
 binIcon=#@#Images\bin
