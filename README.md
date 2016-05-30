@@ -1,7 +1,7 @@
 original version can be found here http://rasvob.deviantart.com/art/Juno-558420529
 
 # todo 
-icons may need to be renamed to work properly with the weather.com api
+add more of the weather icons becase it is currently missing winter based ones
 
 update the settings skin to work with the changes
 
@@ -17,4 +17,4 @@ example location=UKXX0085:1:UK
 
 it currently only displays the hi point for the day becouse adding <tmp> in RegExp to display the current temperature breaks the icons and conditions from displaying anything
 
-dark weather icons dont show up
+
