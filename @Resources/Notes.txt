@@ -1,3 +1,3 @@
 [Variables]
 Align=center
-Text=Write down your notes here...
+Text=fix up the weather skin. mess around with either mouse hover context events or left click for the weather conditions. fix up the settings widget and add options to modify what is displayed for the weather conditions or how its displayed i.e if it defaults to the current condition or the hi point
