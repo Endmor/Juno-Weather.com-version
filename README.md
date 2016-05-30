@@ -7,7 +7,8 @@ update the settings skin to work with the changes
 
 # usage
 
-go to weather.com and copy the location code from the url into @Settings/Variables.inc
+go to weather.com and copy the location code from the url into @Settings/Variables.inc under location=
+example location=UKXX0085:1:UK
 
 
 
@@ -15,4 +16,4 @@ go to weather.com and copy the location code from the url into @Settings/Variabl
 
 it currently only displays the hi point for the day becouse adding <tmp> in RegExp to display the current temperature breaks the icons and conditions from displaying anything
 
-dark weather icnos dont show up
+dark weather icons dont show up
