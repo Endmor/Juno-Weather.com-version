@@ -8,6 +8,7 @@ update the settings skin to work with the changes
 # usage
 
 go to weather.com and copy the location code from the url into @Settings/Variables.inc under location=
+
 example location=UKXX0085:1:UK
 
 
