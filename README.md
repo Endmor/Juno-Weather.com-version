@@ -1,3 +1,6 @@
+#note
+something is breaking the formatting on github so im just going to upload prepackaged versions with the updates from now on
+
 original version can be found here http://rasvob.deviantart.com/art/Juno-558420529
 
 # todo 
